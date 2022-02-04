@@ -1,0 +1,1 @@
+module.exports ="mongodb+srv://admin:admin@cluster0.tr5sz.mongodb.net/SahilDB?retryWrites=true&w=majority"
